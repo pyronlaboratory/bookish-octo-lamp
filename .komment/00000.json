@@ -1,0 +1,35 @@
+[
+  {
+    "name": "test.js",
+    "path": "test.js",
+    "content": {
+      "structured": {
+        "description": "An anonymous function named \"fn\" that returns no value (undefined) and logs a message \"0\" to the console using the console.log method from the global console object. The function is immediately invoked after its definition. The execution of this code will output \"0\" in the console.",
+        "items": [
+          {
+            "id": "f6ad2392-7633-6ca3-8845-9dd414364b86",
+            "ancestors": [],
+            "description": "Logs \"0\" to the console when invoked. It is a constant function, meaning it always returns the same output and does not take any input parameters. The function is defined using an arrow function syntax with a single expression statement.",
+            "params": [],
+            "usage": {
+              "language": "javascript",
+              "code": "fn();\n",
+              "description": "\nIt invokes the function and executes its single statement logging \"0\" to the console."
+            },
+            "name": "fn",
+            "location": {
+              "start": 1,
+              "insert": 1,
+              "offset": " ",
+              "indent": 0,
+              "comment": null
+            },
+            "item_type": "function",
+            "length": 6,
+            "docLength": null
+          }
+        ]
+      }
+    }
+  }
+]
